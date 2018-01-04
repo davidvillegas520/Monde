@@ -1,0 +1,82 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com-sarriaroman-photoviewer": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-android-play-services-gradle-release": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-admob-free": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-google-analytics": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova.plugins.diagnostic": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-admob-sdk": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-promise-polyfill": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        },
+        "cordova-plugin-request-location-accuracy": {
+            "PACKAGE_NAME": "com.taydotech.modernshop"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-android-play-services-gradle-release",
+        "scope": null,
+        "escapedName": "cordova-android-play-services-gradle-release",
+        "name": "cordova-android-play-services-gradle-release",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\Work\\Taydo\\ModernShop\\node_modules"
+    ]
+  ],
+  "_from": "cordova-android-play-services-gradle-release@latest",
+  "_id": "cordova-android-play-services-gradle-release@0.0.2",
+  "_inCache": true,
+  "_location": "/cordova-android-play-services-gradle-release",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-android-play-services-gradle-release-0.0.2.tgz_1498476079163_0.8302254392765462"
+  },
+  "_npmUser": {
+    "name": "davealden",
+    "email": "dave@workingedge.co.uk"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-android-play-services-gradle-release",
+    "scope": null,
+    "escapedName": "cordova-android-play-services-gradle-release",
+    "name": "cordova-android-play-services-gradle-release",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-android-play-services-gradle-release/-/cordova-android-play-services-gradle-release-0.0.2.tgz",
+  "_shasum": "fb5f39dd13a6cdd00ea60261a131a9052b4403fa",
+  "_shrinkwrap": null,
+  "_spec": "cordova-android-play-services-gradle-release",
+  "_where": "E:\\Work\\Taydo\\ModernShop\\node_modules",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "dependencies": {},
+  "description": "Cordova/Phonegap plugin to align various versions of the Play Services library specified by other plugins to the latest release version",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fb5f39dd13a6cdd00ea60261a131a9052b4403fa",
+    "tarball": "https://registry.npmjs.org/cordova-android-play-services-gradle-release/-/cordova-android-play-services-gradle-release-0.0.2.tgz"
+  },
+  "gitHead": "f4759dddb50b8225749fc4ef7612b59e161a1e57",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "davealden",
+      "email": "dave@workingedge.co.uk"
+    }
+  ],
+  "name": "cordova-android-play-services-gradle-release",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.2"
+}

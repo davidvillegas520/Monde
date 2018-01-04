@@ -1,0 +1,25 @@
+<root>
+	<file path="config.xml" >
+		<!--<field name="APP_PACHKAGE" required="" default ="false" type="word_site" />-->
+		<field name="PACKAGE_ID" label="App package" required="true"  type="string" rules="packageID" maxLength="" />
+		<field name="APP_VERSION" label="App version" required="true"  type="string" rules="string" maxLength="" />
+		<field name="APP_NAME" label="App name" required="true" type="string" rules="string" maxLength="50" />
+		<field name="APP_DESCRIPTION" label="App description" required="true"  type="string" rules="string" maxLength="" />
+		<field name="APP_EMAIL" label="Email app" required="true" type="string" rules="Email" maxLength="" />
+		<field name="AUTH_HREF" label="Auth href" required="true" type="string" rules="string" maxLength="" />
+		<field name="APP_AUTHOR" label="Author" required="true" type="string" rules="string" maxLength="" />
+	</file>
+	<file path="src/assets/js/settings.js" >
+		<field name="WORDPRESS_URL" label="Wordpress url (no '/' at the end)" required="true" type="string" rules="wordpressURL" maxLength="" />
+		<field name="WORDPRESS_PER_PAGE" label="Per page" type="string" rules="Number" maxLength="" />
+		<field name="REQUEST_TIMEOUT" label="Request timout" type="string" rules="Number" maxLength="" />
+		<field name="OPEN_TARGET_BLANK" label="Open target blank" type="boolean" rules="boolean" />
+		<field name="DATE_FORMAT" label="Date format(e.g: MM-dd-YYYY)" type="date-format" rules="dateFormat" maxLength="" />
+		<field name="ONESIGNAL_APP_ID" label="Onesignal App ID" required="true" type="string" rules="onesignalID" maxLength="" />
+		<field name="GOOGLE_ANALYTICS" label="Google analytics" type="string" rules="string"  maxLength="" />
+		<field name="ADMOB_ANDROID_BANNER" label="Admob Android Banner" type="string" rules="string"  maxLength="" />
+		<field name="ADMOB_ANDROID_INTERSTITIAL" label="Admob Android Interstitial" type="string" rules="string"  maxLength="" />
+		<field name="ADMOB_IOS_BANNER" label="Admob iOS Banner" type="string" rules="string"  maxLength="" />
+		<field name="ADMOB_IOS_INTERSTITIAL" label="Admob iOS Interstitial" type="string" rules="string"  maxLength="" />
+	</file>
+</root>
